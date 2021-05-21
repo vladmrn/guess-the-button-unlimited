@@ -1,0 +1,15 @@
+body {
+    background: #efefef;
+    font-family: arial;
+}
+h1 {
+    font-size: 38px;
+}
+.btn {
+    height:50px;
+    width:50px;
+    margin:2px;
+    background: #a8dadc;
+    size: 25px;
+    padding: 0px;
+}
